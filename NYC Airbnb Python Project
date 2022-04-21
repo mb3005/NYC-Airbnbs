@@ -1,0 +1,43 @@
+# NYC AIRBNB PYTHON DATA ANALYSIS 
+
+Questions to potentially answer or gain insight on: 
+
+- What is the impact of Airbnbs on the NYC Rental Market? Incoporating principles of supply and demand, we can hypothesize that due to the price incentive, owners may be more drawn to the prospect of hosting airbnbs as they will be priced out of making their properties available for long term leasing. We hypothesize that this will have a negative effect for prospective renters in the city who already have difficulty finding affordable housing in an already competitive market. 
+
+- Performing a host segmentation analysis. What proportion of hosts are 
+
+- 
+
+Data Story:  
+
+1. How many unique airbnb listings are there in NYC? 
+
+2. How has this number changed over the last couple of years?
+
+2. How are they distributed among the five boroughs? More granularly, how are they distributed across the most popular neighborhoods? 
+   What are the most popular areas? (may be able to answer more fully later on when we have more data, but what makes hosting in particular areas more popular?)
+
+3. When looking more closely at the units available, what is the proportion of airbnbs where: 
+   - the entire unit is available versus a portion of the unit is available (i.e. a private room w or w/o private bath)
+  
+4. We can intuit that the last data point may be able to tell us something about the hosts and perform a host segmentation analysis. How many hosts are posting listings with a shared room vs hosts who are posting the entire property, vs hosts who post multiple properties (property managers)?
+
+5. What is the proportion of shared rooms, private rooms, and entire properties being made available all year round, that are being used for airbnb instead of for long term rental. 
+
+What is the proportion of listings that are made available for only a small portion of the year? This can tell us about the use case scenario of the host... whether they are listing their unit when they go away for vacation, or if the property's sole purpose is for airbnb. 
+
+What is the proportion of private rooms available 365 days a year? 
+
+6. What is the airbnb host growth rate over time? 
+
+
+7.. Which areas have the most airbnb? Which areas are most expensive to book an airbnb in? Is this proportional to price to own/rent for hosts (can I find this data elsewhere?)
+
+8. What is the average airbnb listing price in each borough/neighbourhood? 
+
+9. When are peak seasons based on when people are charging more in each area? 
+
+10. What amenities are more 'valuable' from the host's perspective/ what do hosts tend to charge more for? Does this vary depending on the borough/neighbourhood? 
+
+
+
