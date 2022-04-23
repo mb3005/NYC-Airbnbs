@@ -11,11 +11,23 @@ Questions to potentially answer or gain insight on:
 Data Story:  
 
 1. How many unique airbnb listings are there in NYC? 
+	- refer to jupyter notebook 
+	- in 2021, there were 38,277 unique listings, which was down from 48,895 from the two years prior in 2019. The pandemic and stricter city regulations likely caused this number to decrease 
+	
 
 2. How has this number changed over the last couple of years?
+	- refer to jupyter notebook 
+
 
 2. How are they distributed among the five boroughs? More granularly, how are they distributed across the most popular neighborhoods? 
-   What are the most popular areas? (may be able to answer more fully later on when we have more data, but what makes hosting in particular areas more popular?)
+	- refer to jupyter notebook 
+
+   What are the most popular neighbourhoods? (may be able to answer more fully later on when we have more data, but what makes hosting in particular areas more popular?)
+   - refer to jupyter notebook
+
+   What is the average price in each neighbourhood?
+   - 
+
 
 3. When looking more closely at the units available, what is the proportion of airbnbs where: 
    - the entire unit is available versus a portion of the unit is available (i.e. a private room w or w/o private bath)
